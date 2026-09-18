@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "DelliteSmp.aternos.me",
+    "port": 1001,
     "version": "1.21.1"
   },
   "position": {
